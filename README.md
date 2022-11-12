@@ -1,5 +1,3 @@
-👋 Hello, I'm Brandon!
+👋 Hi, I'm Brandon!
 
-I'm a Full Stack Developer that specializes in web based technologies, but have also branched out and worked in a diverse set of other areas. 
-Most of my professional experience comes from working with Content Management Systems (CMS) particularly Drupal while also having
-focused on custom development for CRMs like Salesforce.
+I'm a full-stack developer specializing in web based technologies. I have a diverse professional skillset in areas consisting of CMSs (Drupal & WordPress) and CRMs (Salesforce) while also having curiosity in learning other technologies like frameworks.
