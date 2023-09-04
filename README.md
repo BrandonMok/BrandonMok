@@ -1,3 +1,4 @@
-👋 Hi, I'm Brandon!
+Hello 👋 
 
-I'm a full-stack developer specializing in web based technologies. I have a diverse professional skillset in areas consisting of CMSs (Drupal & WordPress) and CRMs (Salesforce) while also having curiosity in learning other technologies like frameworks.
+I'm Brandon, a Backend Developer at Phase2.
+My experience spans across a variety of areas, but I currently focus and specialize in CMSs (Drupal, WordPress, Salesforce Communities) and CRMs (Salesforce).
